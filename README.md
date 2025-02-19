@@ -19,16 +19,7 @@ This project analyzes beverage sales data using Python. The analysis includes:
 - **Matplotlib & Seaborn** for visualization
 - **Statsmodels** for time series forecasting
 
-## 📊 Sample Visualizations
-![Seasonal Sales](seasonal_sales_distribution.png)
-![Monthly Trends](monthly_sales_trend.png)
-
 ## ✨ Key Insights
 1. **Summer & Spring had the highest sales.** 🌞
 2. **Customers with discounts tend to buy more, but margin decreases.** 📉
 3. **Loyal customers generate more revenue over time.** 💰
-
-## 📌 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sayyadi-mona/Sales-Data-Analysis.git
